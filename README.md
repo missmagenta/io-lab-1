@@ -30,5 +30,5 @@ cat var3
 
 ## Примеры использования
 
-[Изображение](https://gitlab.se.ifmo.ru/magenta/lab-1/-/blob/master/usage.jpg)
+[Изображение](https://github.com/missmagenta/lab-1/blob/main/usage.jpg)
 
